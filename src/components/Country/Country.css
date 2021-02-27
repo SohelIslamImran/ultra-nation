@@ -1,0 +1,43 @@
+.country {
+  text-align: center;
+  border: 1px solid rgb(90, 0, 221);
+  border-radius: 10px;
+  width: 200px;
+  height: 300px;
+  padding: 10px;
+  margin: 15px;
+  box-shadow: -5px 5px 25px #ccc;
+}
+
+.country img {
+  height: 100px;
+  width: 180px;
+}
+
+.country table td {
+  text-align: start;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.country table {
+  border-collapse: separate;
+  border-spacing: 5px 0;
+}
+
+.country button {
+  margin-top: 10px;
+  background: #f72f80;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: white;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.country button:focus {
+  outline: 0;
+  background: #e41b6b;
+}

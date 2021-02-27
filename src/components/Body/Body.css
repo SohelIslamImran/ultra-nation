@@ -1,0 +1,16 @@
+.country-container {
+    display: flex;
+}
+
+.country-details {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+}
+
+.all-countries {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

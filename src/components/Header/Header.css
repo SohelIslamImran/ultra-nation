@@ -1,0 +1,10 @@
+.header {
+  text-align: center;
+  background-image: linear-gradient(180deg, #684efb, #5a00dd);
+  color: white;
+  padding: 15px;
+}
+
+.header h1 {
+    margin: 0;
+}

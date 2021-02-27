@@ -1,0 +1,21 @@
+.details {
+    text-align: center;
+    margin-left: 10px;
+}
+
+.details img {
+    margin-top: 40px;
+    width: 300px;
+}
+
+.details table td {
+  text-align: start;
+  font-weight: 500;
+  font-size: 1rem;
+  border: 1px solid black;
+  padding: 5px 10px;
+}
+
+.details table {
+  border-collapse: collapse;
+}
